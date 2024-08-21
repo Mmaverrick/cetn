@@ -1,0 +1,28 @@
+ i {
+    color: purple;
+}
+b{
+   color: rgba(6, 6, 195, 0.553); 
+} 
+h1{
+    color: purple;
+    background-color:rgb(255, 255, 0);
+    font-size: 50px;
+}  
+a{
+    color:rgb(250, 253, 87) ;
+}
+nav{
+    padding:10px; 
+    margin:10px;
+    border: 1px solid purple;
+    border-radius: 10px;
+    background-color: rgb(177, 145, 224);
+}   
+p{
+    border-radius: 10px;
+    border: 1px solid purple;
+    padding:10px; 
+    margin:10px;
+}
+
